@@ -1,0 +1,14 @@
+D:\test\MessageApp.WEB\MessageApp.WEB\bin\Debug\netcoreapp2.1\MessageApp.WEB.deps.json
+D:\test\MessageApp.WEB\MessageApp.WEB\bin\Debug\netcoreapp2.1\MessageApp.WEB.runtimeconfig.json
+D:\test\MessageApp.WEB\MessageApp.WEB\bin\Debug\netcoreapp2.1\MessageApp.WEB.runtimeconfig.dev.json
+D:\test\MessageApp.WEB\MessageApp.WEB\bin\Debug\netcoreapp2.1\MessageApp.WEB.dll
+D:\test\MessageApp.WEB\MessageApp.WEB\bin\Debug\netcoreapp2.1\MessageApp.WEB.pdb
+D:\test\MessageApp.WEB\MessageApp.WEB\obj\Debug\netcoreapp2.1\MessageApp.WEB.csproj.CoreCompileInputs.cache
+D:\test\MessageApp.WEB\MessageApp.WEB\obj\Debug\netcoreapp2.1\MessageApp.WEB.RazorAssemblyInfo.cache
+D:\test\MessageApp.WEB\MessageApp.WEB\obj\Debug\netcoreapp2.1\MessageApp.WEB.RazorAssemblyInfo.cs
+D:\test\MessageApp.WEB\MessageApp.WEB\obj\Debug\netcoreapp2.1\MessageApp.WEB.AssemblyInfoInputs.cache
+D:\test\MessageApp.WEB\MessageApp.WEB\obj\Debug\netcoreapp2.1\MessageApp.WEB.AssemblyInfo.cs
+D:\test\MessageApp.WEB\MessageApp.WEB\obj\Debug\netcoreapp2.1\MessageApp.WEB.RazorTargetAssemblyInfo.cache
+D:\test\MessageApp.WEB\MessageApp.WEB\obj\Debug\netcoreapp2.1\MessageApp.WEB.dll
+D:\test\MessageApp.WEB\MessageApp.WEB\obj\Debug\netcoreapp2.1\MessageApp.WEB.pdb
+D:\test\MessageApp.WEB\MessageApp.WEB\obj\Debug\netcoreapp2.1\MessageApp.WEB.csprojAssemblyReference.cache
